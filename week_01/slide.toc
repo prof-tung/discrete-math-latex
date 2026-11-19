@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@sectionintoc {2}{Topics}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Logic}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Algorithms}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Relations}{8}{0}{2}
+\beamer@subsectionintoc {2}{4}{Counting and Probability}{9}{0}{2}
+\beamer@subsectionintoc {2}{5}{Graphs}{10}{0}{2}
